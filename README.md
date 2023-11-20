@@ -40,8 +40,8 @@ b) Search notes
 
 ### How to run;
 
-- To launch the backend navigate to /backend/server and run the command ** nodemon server.js **
-- To launch the frontend navigate to /frontend and run ** npm start **
+- To launch the backend navigate to /backend/server and run the command: ** npm run start-server **
+- To launch the frontend navigate to /frontend and run: ** npm start **
 
 Press - click here to go to your notes - on the UI and you will see the application
 

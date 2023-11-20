@@ -4,7 +4,6 @@ require('dotenv').config();
 const notesRoutes = require('./routes/notes');
 const app = express();
 
-//middle ware qe me bo access req.body
 app.use(express.json());
 
 app.use((req, res, next) => {
