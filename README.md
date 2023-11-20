@@ -1,8 +1,8 @@
 ### How to run;
+Make sure you install all the dependencies by running <h1> npm install </h1>
 
-- To launch the backend navigate to /backend/server and run the command: ** npm run start-server **
-- To launch the frontend navigate to /frontend and run: ** npm start **
-
+- To launch the backend navigate to /backend/server and run the command: <h1> npm run start-server </h1>
+- To launch the frontend navigate to /frontend and run: <h1> npm start </h1>
 Press - click here to go to your notes - on the UI and you will see the application
 
 1.To make the app more secure I would have to take care of Authentication and Authorization e.g "Implement robust user authentication (using JWT, OAuth, or similar) and authorization to ensure that users can only access and modify their own notes.
